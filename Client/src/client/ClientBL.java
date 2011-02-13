@@ -5,6 +5,8 @@
 
 package client;
 
+// cio
+
 import ejb_cl_pkg.EJB_CLRemote;
 import ejb_cl_pkg.GeoCoordinate;
 import ejb_cl_pkg.LocalServer;
